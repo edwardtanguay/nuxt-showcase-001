@@ -1,4 +1,4 @@
-# nuxt-showcase-001
+# template-nuxt-001
 
 This is a showcase site for Nuxt 4.
 
@@ -9,6 +9,6 @@ This is a showcase site for Nuxt 4.
 
 ## Live site
 
-- https://nuxt-showcase-001.vercel.app 
+- https://template-nuxt-001.vercel.app 
 
 
