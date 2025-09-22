@@ -1,6 +1,6 @@
 # template-nuxt-001
 
-This is a template site for Nuxt 4 with menu, three pages, Tailwind, Sass, lightly responsive.
+This is a template site for Nuxt 4 with menu, three pages, Tailwind, Sass, Vercel-ready, lightly responsive.
 
 ## Setup
 
